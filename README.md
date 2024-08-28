@@ -71,10 +71,10 @@ The application stores recently shortened URLs in an array and displays them in 
 9. Dark Mode
 Users can toggle between light and dark modes for better readability in different environments. The dark mode feature is implemented with a simple toggle button.
 
-# License
+## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this code.
 
-# Contributing
+## Contributing
 Contributions are welcome! To contribute:
 
 Fork the repository.
